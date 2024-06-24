@@ -1,0 +1,35 @@
+/* Header.css */
+.navbar {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.navbar-brand {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: #ffffff !important;
+}
+
+.nav-link {
+    font-size: 1.1em;
+    color: #ffffff !important;
+    transition: color 0.3s;
+}
+
+.nav-link:hover {
+    color: #dddddd !important;
+}
+
+.form-control {
+    width: 200px;
+}
+
+.btn-outline-light {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+.btn-outline-light:hover {
+    color: #000000;
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
